@@ -1,4 +1,4 @@
-js-simpleapi
+JS-Simple API
 ============
 
-Simple repository of commonly used vanilla.
+An experiment for some of the commonly used vanilla JS pieces I use.
